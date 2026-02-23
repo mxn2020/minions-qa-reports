@@ -1,6 +1,12 @@
 ---
 name: minions-qa-reports
-description: Aggregated test reports, health dashboards, trend analysis, and regression alerts
+id: OC-0148
+version: 1.0.0
+description: "Aggregated test reports, health dashboards, trend analysis, and regression alerts"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-qa-reports — Agent Skills
