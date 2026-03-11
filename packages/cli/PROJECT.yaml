@@ -1,0 +1,8 @@
+name: "@minions-qa-reports/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-qa-reports-workspace
+description: "CLI for minions-qa-reports — Aggregated test reports, health dashboards, trend analysis, and regression alerts"
+priority: high
+deploy_url: null
+tags: null

@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/minions-qa-reports-workspace/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # minions-qa-reports
 
 **Aggregated test reports, health dashboards, trend analysis, and regression alerts**
