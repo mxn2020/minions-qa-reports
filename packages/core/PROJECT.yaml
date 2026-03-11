@@ -6,3 +6,4 @@ description: "Aggregated test reports, health dashboards, trend analysis, and re
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
