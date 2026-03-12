@@ -1,6 +1,6 @@
 {
   "name": "@minions-qa-reports/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-qa-reports — Aggregated test reports, health dashboards, trend analysis, and regression alerts",
   "license": "MIT",
   "repository": {
