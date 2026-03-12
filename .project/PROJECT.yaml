@@ -1,0 +1,16 @@
+name: minions-qa-reports-workspace
+project_scope: main
+project_type: monorepo
+description: Aggregated test reports, health dashboards, trend analysis, and regression alerts
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-qa-reports"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-qa-reports-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
